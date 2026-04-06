@@ -1,4 +1,5 @@
-name,alter
-Joerg,52
-Joascha,0
-Prince,55
+name,alter,hobby,beruf
+Joerg,52,Tennis,IT
+Joascha,0,Schach,AI
+Prince,55,Musik,Artist
+,,,
